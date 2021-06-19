@@ -5,14 +5,17 @@ O aplicativo foi feito inicialmente em 2019 e rececentemente refeito em TypeScri
 ## App
 ### Tela inicial
 Tela onde as piadas sao geradas:
+
 ![Home](https://i.imgur.com/4DACjab.gif)
 
 ### Criar nova piada
 Tela onde o usuario pode enviar piadas:
+
 ![Nova piada](https://i.imgur.com/0ecDFQM.gif)
 
 ### Piadas pendentes
 Tela onde as piadas podem ser aceitas ou nao para entrar no acervo de piadas:
+
 ![Nova piada](https://i.imgur.com/cwWsIyX.gif)
 
 ## Como rodar:
