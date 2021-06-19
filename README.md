@@ -34,4 +34,9 @@ expo start
 
 Ja esta funcionando :)
 
+Backend:
+```
+https://github.com/gustavobonassa/joke-backend
+```
+
 
